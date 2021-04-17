@@ -4,5 +4,5 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     margin: 3;
     background-color: "bisque";
-    width:50%;
+    max-width:500px;
   }
