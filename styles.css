@@ -4,4 +4,5 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     margin: 3;
     background-color: "bisque";
+    word-wrap: normal;
   }
