@@ -6,5 +6,5 @@ html {
     background-color:#a8d3d4;
     max-width:1000px;
     text-align: justify;
-    padding:20px
+    justify-content: space-around;
   }
